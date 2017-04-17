@@ -33,7 +33,7 @@ module.exports = (grunt) ->
     connect:
       server:
         options:
-          port: 8000
+          port: 8282
           useAvailablePort: true
     jasmine:
       test:
